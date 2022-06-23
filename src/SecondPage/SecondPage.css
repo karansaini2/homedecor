@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page2-outer{
+    height: 50vh;
+    background-color: black;
+}
+
+.page2-inner{
+    text-align: left;
+    margin-left: 100px;
+    padding-top: 60px;
+}
+
+.page2-inner h1{
+    font-size: 2.7rem;
+    color: white;
+}
+
+.page2-inner h3{
+    color: whitesmoke;
+}
+
+
+.content{
+    display: flex;
+    margin-top: 45px;
+    
+}
+.one{
+    width: 30%;
+    color: white;
+    word-wrap: break-word;
+    margin-left: 12px;
+    margin-right: 12px;
+
+}
+
+.one span p{
+    margin-top: 15px;
+    color: grey;
+}

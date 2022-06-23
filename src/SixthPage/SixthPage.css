@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page6-outer{
+    height:70vh;
+    background-color: black;
+}
+
+.page6left{
+    width: 30%;
+    margin-top: 70px;
+}
+.page6left h1{
+color:white;
+text-align: left;
+
+}
+
+.page6left p{
+    margin-top: 30px;
+    color: lightgray;
+    text-align: left;
+}
+
+.page6left .span p{
+  margin-top: 180px;
+}
+
+.page6right{
+margin-top: 70px;
+}
+
+.page6right h2{
+    font-size: 2rem;
+}
+
+.page6right .input{
+    overflow: hidden;
+    margin-top: 25px;
+    font-size: 1.2rem;
+}
+
+.page6right .input button{
+ float: right;
+ height: 30px;
+ width: 60px;
+}
+
+.page6right .table{
+    margin-top: 30px;
+}

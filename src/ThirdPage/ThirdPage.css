@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.page3-outer{
+    height: 70vh;
+}
+
+.page3-inner{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.leftside{
+    width: 49%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+ 
+}
+
+.pic1{
+    background-image: url(../Images/1.jpg);
+    height: 420px;
+    width: 70px;
+    background-size: cover;
+}
+
+.pic2{
+    background-image: url(../Images/4.jpg);
+    height: 420px;
+    width: 200px;
+    background-size: cover;
+}
+
+.pic3{
+    background-image: url(../Images/3.jpg);
+    height: 420px;
+    width: 430px;
+    background-size: cover;
+}
+
+
+.rightside{
+    margin-right: 150px;
+   
+}
+.rightside h2,h1{
+    text-align: left;
+    
+}
+
+.rightside h1{
+    font-size: 2.7rem;
+}
+
+.recommend{
+    margin-top: 30px;
+    width: 450px;
+    height: 100px;
+    text-align: left;
+    padding: 15px;
+    background-color: black;
+}
+.recommend h3{
+    color: white;
+}
+
+.recommend span p{
+    word-wrap: break-word;
+    color: gray;
+}
+
+.recommend2{
+    margin-top: 15px;
+    text-align: left;
+}
